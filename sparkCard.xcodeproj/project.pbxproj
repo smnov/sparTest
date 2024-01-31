@@ -7,18 +7,44 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A60B9D62B6A497D00BCCEE1 /* ProductViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A60B9D52B6A497D00BCCEE1 /* ProductViewModel.swift */; };
 		3AA4BC702B69F099005F0693 /* sparkCardApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA4BC6F2B69F099005F0693 /* sparkCardApp.swift */; };
 		3AA4BC722B69F099005F0693 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA4BC712B69F099005F0693 /* ContentView.swift */; };
 		3AA4BC742B69F09B005F0693 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AA4BC732B69F09B005F0693 /* Assets.xcassets */; };
 		3AA4BC772B69F09B005F0693 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AA4BC762B69F09B005F0693 /* Preview Assets.xcassets */; };
+		3AA4BC7F2B69F18F005F0693 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA4BC7E2B69F18F005F0693 /* MainView.swift */; };
+		3AA4BC812B69F235005F0693 /* CatalogeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA4BC802B69F235005F0693 /* CatalogeView.swift */; };
+		3AA4BC842B69F261005F0693 /* CartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA4BC832B69F261005F0693 /* CartView.swift */; };
+		3AA4BC862B69F267005F0693 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA4BC852B69F267005F0693 /* ProfileView.swift */; };
+		3AA4BC892B69F48D005F0693 /* ToolbarButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA4BC882B69F48D005F0693 /* ToolbarButton.swift */; };
+		3AA4BC8B2B69F6DD005F0693 /* ProductView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA4BC8A2B69F6DD005F0693 /* ProductView.swift */; };
+		3AA4BC8E2B69F931005F0693 /* CountryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA4BC8D2B69F931005F0693 /* CountryCell.swift */; };
+		3AA4BC902B69F97F005F0693 /* CharsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA4BC8F2B69F97F005F0693 /* CharsView.swift */; };
+		3AA4BC922B69FD21005F0693 /* ReviewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA4BC912B69FD21005F0693 /* ReviewsView.swift */; };
+		3AA4BC942B69FD8A005F0693 /* PriceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA4BC932B69FD8A005F0693 /* PriceView.swift */; };
+		3AA4BC962B6A06B6005F0693 /* QuantityButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA4BC952B6A06B6005F0693 /* QuantityButton.swift */; };
+		3AA4BC982B6A1752005F0693 /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA4BC972B6A1752005F0693 /* RatingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A60B9D52B6A497D00BCCEE1 /* ProductViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductViewModel.swift; sourceTree = "<group>"; };
 		3AA4BC6C2B69F099005F0693 /* sparkCard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sparkCard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AA4BC6F2B69F099005F0693 /* sparkCardApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sparkCardApp.swift; sourceTree = "<group>"; };
 		3AA4BC712B69F099005F0693 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3AA4BC732B69F09B005F0693 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3AA4BC762B69F09B005F0693 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3AA4BC7E2B69F18F005F0693 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		3AA4BC802B69F235005F0693 /* CatalogeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogeView.swift; sourceTree = "<group>"; };
+		3AA4BC832B69F261005F0693 /* CartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartView.swift; sourceTree = "<group>"; };
+		3AA4BC852B69F267005F0693 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		3AA4BC882B69F48D005F0693 /* ToolbarButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarButton.swift; sourceTree = "<group>"; };
+		3AA4BC8A2B69F6DD005F0693 /* ProductView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductView.swift; sourceTree = "<group>"; };
+		3AA4BC8D2B69F931005F0693 /* CountryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryCell.swift; sourceTree = "<group>"; };
+		3AA4BC8F2B69F97F005F0693 /* CharsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharsView.swift; sourceTree = "<group>"; };
+		3AA4BC912B69FD21005F0693 /* ReviewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewsView.swift; sourceTree = "<group>"; };
+		3AA4BC932B69FD8A005F0693 /* PriceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriceView.swift; sourceTree = "<group>"; };
+		3AA4BC952B6A06B6005F0693 /* QuantityButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuantityButton.swift; sourceTree = "<group>"; };
+		3AA4BC972B6A1752005F0693 /* RatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +58,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3A60B9D72B6A4C7900BCCEE1 /* Viewmodel */ = {
+			isa = PBXGroup;
+			children = (
+				3A60B9D52B6A497D00BCCEE1 /* ProductViewModel.swift */,
+			);
+			path = Viewmodel;
+			sourceTree = "<group>";
+		};
 		3AA4BC632B69F099005F0693 = {
 			isa = PBXGroup;
 			children = (
@@ -51,6 +85,8 @@
 		3AA4BC6E2B69F099005F0693 /* sparkCard */ = {
 			isa = PBXGroup;
 			children = (
+				3AA4BC872B69F481005F0693 /* Buttons */,
+				3AA4BC7D2B69F17B005F0693 /* Views */,
 				3AA4BC6F2B69F099005F0693 /* sparkCardApp.swift */,
 				3AA4BC712B69F099005F0693 /* ContentView.swift */,
 				3AA4BC732B69F09B005F0693 /* Assets.xcassets */,
@@ -65,6 +101,49 @@
 				3AA4BC762B69F09B005F0693 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3AA4BC7D2B69F17B005F0693 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3AA4BC7E2B69F18F005F0693 /* MainView.swift */,
+				3AA4BC802B69F235005F0693 /* CatalogeView.swift */,
+				3AA4BC832B69F261005F0693 /* CartView.swift */,
+				3AA4BC852B69F267005F0693 /* ProfileView.swift */,
+				3AA4BC8C2B69F90F005F0693 /* Product */,
+				3AA4BC822B69F258005F0693 /* New Group */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3AA4BC822B69F258005F0693 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		3AA4BC872B69F481005F0693 /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				3AA4BC882B69F48D005F0693 /* ToolbarButton.swift */,
+				3AA4BC952B6A06B6005F0693 /* QuantityButton.swift */,
+			);
+			path = Buttons;
+			sourceTree = "<group>";
+		};
+		3AA4BC8C2B69F90F005F0693 /* Product */ = {
+			isa = PBXGroup;
+			children = (
+				3A60B9D72B6A4C7900BCCEE1 /* Viewmodel */,
+				3AA4BC8A2B69F6DD005F0693 /* ProductView.swift */,
+				3AA4BC8D2B69F931005F0693 /* CountryCell.swift */,
+				3AA4BC972B6A1752005F0693 /* RatingView.swift */,
+				3AA4BC912B69FD21005F0693 /* ReviewsView.swift */,
+				3AA4BC932B69FD8A005F0693 /* PriceView.swift */,
+				3AA4BC8F2B69F97F005F0693 /* CharsView.swift */,
+			);
+			path = Product;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +216,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3AA4BC922B69FD21005F0693 /* ReviewsView.swift in Sources */,
+				3AA4BC8B2B69F6DD005F0693 /* ProductView.swift in Sources */,
+				3AA4BC842B69F261005F0693 /* CartView.swift in Sources */,
+				3AA4BC902B69F97F005F0693 /* CharsView.swift in Sources */,
+				3AA4BC812B69F235005F0693 /* CatalogeView.swift in Sources */,
 				3AA4BC722B69F099005F0693 /* ContentView.swift in Sources */,
+				3AA4BC7F2B69F18F005F0693 /* MainView.swift in Sources */,
+				3AA4BC862B69F267005F0693 /* ProfileView.swift in Sources */,
+				3AA4BC942B69FD8A005F0693 /* PriceView.swift in Sources */,
+				3AA4BC892B69F48D005F0693 /* ToolbarButton.swift in Sources */,
+				3AA4BC962B6A06B6005F0693 /* QuantityButton.swift in Sources */,
 				3AA4BC702B69F099005F0693 /* sparkCardApp.swift in Sources */,
+				3AA4BC8E2B69F931005F0693 /* CountryCell.swift in Sources */,
+				3AA4BC982B6A1752005F0693 /* RatingView.swift in Sources */,
+				3A60B9D62B6A497D00BCCEE1 /* ProductViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
